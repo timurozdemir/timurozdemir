@@ -14,7 +14,7 @@ I'm a student passionate about technology, Artificial Intelligence, and computer
 - Development and coding tools
 
 ## 📫 How to Reach Me
-- **GitHub:** [@timurozdemir](https://github.com/YOUR_USERNAME)
+- **GitHub:** [@timurozdemir](https://github.com/timurozdemir)
 - **Discord:** quizyfr
 - **Email:** timurozdemircoding@gmail.com
 
