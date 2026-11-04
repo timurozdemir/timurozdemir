@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Timur! 👋
 
-<!--
-**timurozdemir/timurozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who Am I?
+I'm a student passionate about technology, Artificial Intelligence, and computer science. I enjoy exploring new technologies, experimenting with AI models, and learning how things work behind the scenes.
 
-Here are some ideas to get you started:
+## 🚀 What Am I Currently Working On?
+- Exploring Artificial Intelligence and machine learning.
+- Experimenting with AI models and local AI tools.
+- Learning programming and software development.
+- Improving my technical skills and knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What Tools Do I Use?
+- Artificial Intelligence tools and models
+- Development and coding tools
+
+## 📫 How to Reach Me
+- **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **Discord:** YOUR_DISCORD
+- **Email:** YOUR_EMAIL
+
+---
