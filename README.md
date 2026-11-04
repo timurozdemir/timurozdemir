@@ -19,3 +19,4 @@ I'm a student passionate about technology, Artificial Intelligence, and computer
 - **Email:** timurozdemircoding@gmail.com
 
 ---
+ 
