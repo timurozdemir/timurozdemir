@@ -18,4 +18,5 @@ I'm a student passionate about technology, Artificial Intelligence, and computer
 - **Discord:** quizyfr
 - **Email:** timurozdemircoding@gmail.com
 
+<3
 ---
